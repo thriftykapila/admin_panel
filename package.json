@@ -1,5 +1,6 @@
 {
   "name": "admin_panel",
+  "created_by": "Thrifty",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
